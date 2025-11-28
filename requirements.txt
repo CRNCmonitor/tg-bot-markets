@@ -1,0 +1,2 @@
+﻿python-telegram-bot[webhooks]==20.8
+requests==2.31.0
